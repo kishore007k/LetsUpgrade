@@ -25,7 +25,7 @@ This is a Repository for the LetsUpgrade Assignments
 6. Day-6 😋
      - [Assignments](Day-6/index.html)
 7. Day-7 😍
-     - [Mini Project]('https://user-images.githubusercontent.com/34863222/89158937-6d0e1a80-d58c-11ea-930c-b935a6b088c3.gif')
+     - [Mini Project](Mini-Project/index.html)
 
 ---
 
