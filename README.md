@@ -1,6 +1,8 @@
 # LetsUpgrade
 This is a Repository for the LetsUpgrade Assignments
 
+<img align="left" alt="LetsUpgrade" width="200px" src="https://user-images.githubusercontent.com/34863222/90314533-144a6480-df32-11ea-8d99-e20651f33247.png" />
+
 ---
 
 ## Assignments
